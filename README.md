@@ -2,7 +2,7 @@
 
 ## Smart Street Light System
 
-Project by team Apha_Codinators at HackStudio(our first hackathon). I did the backend using Bolt python library.
+Project by team Apha_Codinators at HackStudio(our first hackathon).
 The project is just a prototype for now and we are working to make it reach full operational capability soon. 
 
 ### The Problem 
