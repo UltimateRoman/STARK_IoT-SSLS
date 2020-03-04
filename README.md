@@ -15,7 +15,7 @@ wastage. This also deprives valuable electric power which could be used in other
 ### Our solution
 
 We had a look into this problem and have designed the STARK Smart Street Light System(SSLS) for the purpose. It makes
-use of an Arduino interfaced with a Bolt WiFi Module(ESP 8266) to create an optimised controlling system for energy efficient
+use of an Arduino interfaced with a Bolt WiFi Module(ESP 8266) to create a dynamic optimised control system for energy efficient
 smart street lights.
 
 ### How does Stark work?
