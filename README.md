@@ -2,7 +2,7 @@
 
 ## Smart Street Light System
 
-Project by team Apha_Codinators at HackStudio(our first hackathon).
+Project by team Alpha_Codinators at HackStudio(our first hackathon).
 The project is just a prototype for now and we are working to make it reach full operational capability soon. 
 
 ### The Problem 
@@ -24,8 +24,9 @@ The Stark module starts operation automatically at night with the help of sensor
 of a vehicle or pedestrian passing through the street. It then switches on the street lights with optimum timing and brightness 
 saving electric energy and also satisfying the requirement of the incoming person/vehicle.
 
-**STARK_IoT SSLS Module ver 1.01**
-![STARK Module](https://storage.googleapis.com/devfolio/hackathons/dc5f01f119174b248375bc6e5d8c4964/projects/1d4be01bc5864583ad57b01334b92fd8/pico5fsfhskp.jpeg)
+**STARK_IoT SSLS Module**
+
+![STARK Module](final.jpeg)
 
 
 
